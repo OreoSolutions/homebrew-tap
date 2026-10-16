@@ -1,6 +1,6 @@
 cask "oreokey" do
-  version "0.10.0"
-  sha256 "f46a3ad4eb5f7c22d539f0a3f5dba1f4e41ce4d669a8a85012d6ea8b3bad8ae7"
+  version "0.10.1"
+  sha256 "393d7a3e5d24933c6bcd3778223d9e826a9ab3d8c97a1ea11c74e79116cf16f4"
 
   url "https://github.com/OreoSolutions/oreokey/releases/download/v#{version}/OreoKey.dmg"
   name "OreoKey"
